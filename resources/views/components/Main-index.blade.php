@@ -7,7 +7,6 @@
     <link rel="icon" type="image/png" src="{{ asset('img/icon/b-logo.png') }}">
     <title>IB-México | @yield('pagina')</title>
     @include('components.Css')
-    <h1>hola como estamos</h1>
     @section('css')
     @show
 </head>
