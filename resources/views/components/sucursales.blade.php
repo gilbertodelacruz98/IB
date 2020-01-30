@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Sucursales</h2>
+            <h2 class="section-heading text-uppercase">Sucursales </h2>
             <h3 class="section-subheading text-muted">Encuentra nuestra sucursal más cerca de tí</h3>
             </div>
         </div>
@@ -58,4 +58,4 @@
             </div>
         </div>
     </div>
-  </section>
+  </section> 
